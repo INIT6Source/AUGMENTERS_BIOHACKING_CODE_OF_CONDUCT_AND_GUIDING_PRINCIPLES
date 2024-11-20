@@ -137,7 +137,7 @@ This Code of Conduct applies to all community spaces, including but not limited 
 ### Additional Notes
 
 - **Awareness of Rules:**
-  - Specific channels may have additional rules pinned or posted.
+  - Specific channels and spaces (physical or virtual) may have additional rules pinned or posted.
   - These rules are enforced at all times in their respective channels, regardless of whether a user has read them.
 
 - **General Conduct:**
