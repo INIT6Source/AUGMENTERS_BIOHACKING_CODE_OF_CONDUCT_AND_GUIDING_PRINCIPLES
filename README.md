@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Augmenter's Biohacking Code of Conduct & Guiding Principles
+# Code of Conduct & Guiding Principles
 
 </div>
 
