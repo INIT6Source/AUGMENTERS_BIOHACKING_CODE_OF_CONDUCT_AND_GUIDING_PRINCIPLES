@@ -148,7 +148,7 @@ This Code of Conduct applies to all community spaces, including but not limited 
 
 - **Feedback Welcome:**
   - We are dedicated to continuous improvement and welcome feedback from the community.
-  - Suggestions for amendments to this Code of Conduct and Guiding Principles can be submitted to the community organizers or as a pull request GitHub.
+  - Suggestions for amendments to this Code of Conduct and Guiding Principles can be submitted to the community organizers or as a pull request on GitHub.
 
 - **Regular Review:**
   - This document will be reviewed periodically to ensure it remains relevant and effective.
