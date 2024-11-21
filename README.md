@@ -4,71 +4,84 @@
 
 </div>
 
-## Introduction
+# Introduction
 
 We are a human augmenation and biohacking-focused community dedicated to fostering a welcoming, inclusive, and harassment-free environment for everyone. Our community thrives on diversity, open collaboration, and the pursuit of knowledge in human augmentation and biohacking technologies. This Code of Conduct and Guiding Principles outlines our expectations to ensure a positive experience for all members and participants.
 
-## Scope
+# Scope
 
 This Code of Conduct applies to all community spaces, including but not limited to online forums, social media channels, events, workshops, and any other interactions under our community umbrella.
 
-## Guiding Principles
+# Guiding Principles
 
-### 1. Bodily Autonomy
+## 1. Bodily Autonomy
 
 - **Paramount Right:** The right of individuals to make informed choices about their bodies is paramount.
 - **Voluntary Participation:** All augmentations and modifications must be voluntary and respect individual choices.
 
-### 2. Informed Consent
+## 2. Informed Consent
 
 - **Full Disclosure:** Individuals must be fully informed of the known risks and benefits of any augmentation or modification, acknowledging that some effects may be unknown.
 - **Consent:** All parties must consent without coercion, with the understanding that consent can be withdrawn at any time.
 
-### 3. Transparency
+## 3. Transparency
 
 - **Open Communication:** Commit to sharing ideas, knowledge, data, and outcomes openly and publicly.
 - **Clarity:** Promote clear communication to facilitate understanding and collaboration.
 
-### 4. Open Access
+## 4. Open Access
 
 - **Democratization of Knowledge:** Advocate for accessible science and technology to ensure that human augmentation is available to all interested individuals.
 - **Resource Sharing:** Encourage the dissemination of information and resources to promote widespread understanding and participation.
 
-### 5. Safety
+## 5. Safety
 
 - **Do No Harm:** Adhere to the principle of "First, do no harm" (*Primum non nocere*).
 - **Risk Minimization:** Strive to minimize risks and adverse effects on individuals, others, and the environment.
 - **Responsible Action:** Recognize that both action and inaction have consequences; take responsibility for the safety of actions undertaken.
 
-### 6. Respect
+## 6. Respect
 
 - **Dignity and Privacy:** Uphold the dignity, worth, and privacy of every individual.
 - **Considerate Behavior:** Treat all members with kindness, empathy, and respect.
 - **Impact Awareness:** Consider the impact of your actions on individuals, communities, and the environment.
 
-### 7. Diversity & Inclusion
+## 7. Diversity & Inclusion
 
 - **Acceptance and Inclusion:** Create a culture of acceptance and inclusion within the community.
 - **Embracing Diversity:** Celebrate diversity in gender identities, sexual orientations, disabilities, neurodiversity, physical appearances, body sizes, ages, races, ethnicities, nationalities, languages, and religions.
 - **Zero Tolerance for Discrimination:** Do not tolerate discrimination or harassment in any form.
 
-### 8. Humane & Moral Conduct
+## 8. Humane & Moral Conduct
 
 - **Ethical Standards:** Uphold high ethical standards and diligence in all activities.
 - **Reject Unethical Behavior:** Reject all forms of cruelty, unethical conduct, and inhumane treatment.
 
-### 9. The Hippocratic Oath
+## 9. Ethical Principles
 
-- **Healthcare Ethics:** Respect scientific progress and use it to benefit others.
-- **Avoid Overtreatment:** Avoid unnecessary interventions that may cause harm.
-- **Privacy Respect:** Respect the privacy of individuals and maintain confidentiality.
-- **Self-Awareness:** Acknowledge personal limitations and seek guidance when necessary.
-- **Disease Prevention:** Prioritize preventing harm and disease.
-- **Humility:** Approach life-and-death matters with humility and caution.
+### Beneficence
+- **Promote Well-being:** Actively work to promote the health, safety, and overall well-being of individuals undergoing augmentation or biohacking.
+- **Positive Outcomes:** Strive for interventions that result in the most significant positive outcomes for individuals and society.
+- **Responsibility to Act:** Recognize a duty to act in the best interest of participants and the broader community.
 
-## Code of Conduct
+### Non-maleficence
+- **Avoid Harm:** Adhere strictly to the principle of "do no harm" by minimizing risks associated with biohacking practices.
+- **Risk Awareness:** Assess potential risks comprehensively and ensure that harm is minimized through informed decision-making and adherence to safety protocols.
+- **Mitigation Strategies:** Prepare strategies to address and mitigate any unintended adverse outcomes.
 
-### Expected Behavior
+### Distributive Justice
+- **Fair Access:** Ensure fair and equitable access to biohacking technologies and resources, irrespective of socioeconomic status, gender, race, or other factors.
+- **Resource Allocation:** Distribute resources and opportunities in a manner that prioritizes need and promotes inclusivity within the community.
+- **Collective Responsibility:** Advocate for systemic changes that improve accessibility and justice in augmentation practices.
+
+### Autonomy
+- **Empower Individual Choice:** Respect and uphold the rights of individuals to make informed and voluntary decisions about their own bodies and augmentation.
+- **Informed Consent:** Provide complete and comprehensible information to participants to enable autonomous and educated decision-making.
+- **Respect for Diversity:** Acknowledge and support diverse perspectives, values, and preferences within the community.
+
+# Code of Conduct
+
+## Expected Behavior
 
 - **Respectful Communication:**
   - Use welcoming and inclusive language.
@@ -85,7 +98,7 @@ This Code of Conduct applies to all community spaces, including but not limited 
   - Familiarize yourself community rules and guidelines.
   - Follow any additional rules posted or pinned in community spaces.
 
-### Unacceptable Behavior
+## Unacceptable Behavior
 
 - **Harassment and Discrimination:**
   - Harassment of any type, including intentionally provocative, racial, or LGBTQIA+ phobic comments.
@@ -118,7 +131,7 @@ This Code of Conduct applies to all community spaces, including but not limited 
   - Spamming, trolling, or posting irrelevant or inappropriate content.
   - Unsolicited advertising or self-promotion without community consent.
 
-### Enforcement
+## Enforcement
 
 - **Reporting Violations:**
   - If you experience or witness unacceptable behavior, please report it to the community organizers or moderators immediately.
@@ -134,7 +147,7 @@ This Code of Conduct applies to all community spaces, including but not limited 
   - Individuals subject to enforcement actions may appeal by contacting the community organizers with a concise description of their grievance.
   - Appeals will be reviewed and decided upon by a designated panel.
 
-### Additional Notes
+## Additional Notes
 
 - **Awareness of Rules:**
   - Specific channels and spaces (physical or virtual) may have additional rules pinned or posted.
