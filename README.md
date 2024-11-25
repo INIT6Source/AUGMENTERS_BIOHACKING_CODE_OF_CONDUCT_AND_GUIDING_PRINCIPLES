@@ -1,3 +1,5 @@
+The latest version is now available at: [Biohackers Digital - KnowledgeBase - Code of Conduct](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/CODE%20OF%20CONDUCT.md). This version has been archived.
+
 <div align="center"> 
 
 # Code of Conduct & Guiding Principles
